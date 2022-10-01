@@ -10,6 +10,7 @@ Julia is a new programming language developed for scientific and numerical progr
 - [Julia language documentation](https://julialang.org)
 - [Julia Discourse](https://discourse.julialang.org)
 - [Forem](https://forem.julialang.org)
+- [JuliaMolSim](https://github.com/JuliaMolSim)
 
 **About Me**
 
